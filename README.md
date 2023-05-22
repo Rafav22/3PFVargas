@@ -1,3 +1,12 @@
+Buenas Profesor muchas gracias por el curso dejeme decirle que ha sido uno de los mejores cursos que he llevado, se lo agradezco mucho.
+Notas de Proyecto.
+
+User Principal rafa@mail.com
+Password : 123456
+
+
+
+
 # Dashboard
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.2.
